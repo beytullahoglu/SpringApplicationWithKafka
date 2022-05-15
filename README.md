@@ -1,6 +1,4 @@
-# StartupHeroes-CaseStudy
-
-Basic Spring Application with Kafka
+# Basic Spring Application with Kafka
 
 This project's aim is to send data to Kafka from a Spring application.
 
